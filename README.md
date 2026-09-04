@@ -250,3 +250,5 @@ For long-term publication, create a versioned GitHub release and, if possible, a
 ## License
 
 No software/data license is selected in this package because licensing is an author decision. **Before public release, add an explicit license appropriate for both the code and the dataset.** Do not assume that a public GitHub repository automatically grants reuse rights.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22299977.svg)](https://doi.org/10.5281/zenodo.22299977)
